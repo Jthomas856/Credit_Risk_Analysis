@@ -11,6 +11,7 @@ Six machine learning models were created to evaluate credit card risk.
 - TThe high-risk precision is low (1%) and the low-risk precision is high (100%).
 - The recall is 72% for high-risk and 59% for low-risk.
 - The high-risk F1 score is 2%.
+
  ![Screen Shot 2022-01-02 at 12 50 13 PM](https://user-images.githubusercontent.com/89098766/147884657-75bb98d8-f3cb-4410-b976-6d951b81b3ad.png)
 
 
@@ -19,6 +20,7 @@ Six machine learning models were created to evaluate credit card risk.
 - The high-risk precision is low (1%) and the low-risk precision is high (100%). 
 - The recall is 63% for high-risk and 69% for low-risk.
 - The high-risk F1 score is 2%.
+
 ![Screen Shot 2022-01-02 at 12 51 58 PM](https://user-images.githubusercontent.com/89098766/147884743-db01ad7c-1d9c-40f1-b4bb-d586a1b1e5ea.png)
 
 
@@ -27,6 +29,7 @@ Six machine learning models were created to evaluate credit card risk.
 - The high-risk precision is low (1%) and the low-risk precision is high (100%). 
 - The recall is 69% for high-risk and 40% for low-risk.
 - The high-risk F1 score is 1%.
+
 ![Screen Shot 2022-01-02 at 12 53 52 PM](https://user-images.githubusercontent.com/89098766/147884818-8d91f392-fcb2-4a9c-8ebd-986363ab84a7.png)
 
 
@@ -39,6 +42,7 @@ Six machine learning models were created to evaluate credit card risk.
 - The high-risk precision is 4% and the low-risk precision is 100%. 
 - The recall is 67% for high-risk and 91% for low-risk. 
 - The high-risk F1 score is 7%.
+-
 ![Screen Shot 2022-01-02 at 12 58 19 PM](https://user-images.githubusercontent.com/89098766/147884934-b0eab4a0-5cfb-4186-a147-a20289e35d5d.png)
 
 
@@ -47,6 +51,7 @@ Six machine learning models were created to evaluate credit card risk.
 - The high-risk precision is 7% for high-risk and 100% for low-risk. 
 - The recall is 91% for high-risk and 94% for low-risk. 
 - The high-risk F1 score is 14%.
+
 ![Screen Shot 2022-01-02 at 1 00 03 PM](https://user-images.githubusercontent.com/89098766/147884975-b8cc531f-fbf5-432a-8305-2efdfb10ed6e.png)
 
 
