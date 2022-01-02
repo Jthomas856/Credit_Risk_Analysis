@@ -34,7 +34,12 @@ Six machine learning models were created to evaluate credit card risk.
 
 
 ### SMOTEENN Combination Sampling
+- The balanced accuracy score is 67%.
+- The high-risk precision is low (1%) and the low-risk precision is high (100%).
+- The recall is 72% for high-risk and 61% for low risk.
+- The high-risk F1 score is 2%.
 
+<img width="723" alt="Screen Shot 2022-01-02 at 2 26 03 PM" src="https://user-images.githubusercontent.com/89098766/147887195-2e6d7313-dd50-4ba2-b539-901fe2ac7ac8.png">
 
 
 ### Balanced Random Forest Classifier
