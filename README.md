@@ -58,3 +58,4 @@ Six machine learning models were created to evaluate credit card risk.
 ## Summary
 
 The results for all 6 machine learning models varied slightly. All of the models yielded low precision scores for predicting high-risk, but scored high precision in predicting low-risk. The Undersampling model had the lowest balanced accuracy score at 54%, and the Easy Ensemble AdaBooster Classifier had the highest at 93%. The classifier models showed improvement in the overall prediction results, especially with the recall predictions meaning they were more sensitive at predicting high-risk credit which is useful in our case of analyzing credit risk. Overall though there is not one perfect model, I would recommend the Easy Ensemble AdaBoost Classifer model for its high balanced accuracy score, decently balanced recall score, and the highest precision of all the models at predicting high risk.
+
